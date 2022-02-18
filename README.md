@@ -35,8 +35,7 @@ the type of event based on certin informations.
 - Starbucks_Capstone_notebook (1).ipynb
 - new_transcript.csv (the data before final cleaning)
 - new_df (the data after final cleaning)
-- pic1.png
-- pic2.png
+
 
 
 ## Result<a name="result"></a>
