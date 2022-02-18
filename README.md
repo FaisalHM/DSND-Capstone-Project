@@ -32,7 +32,7 @@ the type of event based on certin informations.
     - profile.json (original data)
     - portfolio.json (original data)
 - Starbucks_Capstone_notebook-zh.ipynb
-- Starbucks_Capstone_notebook (1).ipynb
+- Starbucks_Capstone_notebook.ipynb
 - new_transcript.csv (the data before final cleaning)
 - new_df (the data after final cleaning)
 
